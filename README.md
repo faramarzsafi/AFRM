@@ -119,7 +119,7 @@ If you use this work, please cite the following:
 
 For questions, suggestions, or collaborations, please contact:
 
-- **Faramarz Safi-Esfahani** – [fsafi@iaun.ac.ir](mailto:faramarz.afiesfahani@uts.edu.au)
+- **Faramarz Safi-Esfahani** – [faramarz.safiesfahani@uts.edu.au](mailto:faramarz.safiesfahani@uts.edu.au)
 
 ---
 
